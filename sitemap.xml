@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://publii/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://publii.vishalpandey.co.in/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://publii/</loc>
+<loc>https://publii.vishalpandey.co.in/</loc>
 </url>
 <url>
-<loc>https://publii/title-of-the-page-is-this.html</loc>
+<loc>https://publii.vishalpandey.co.in/title-of-the-page-is-this.html</loc>
 <lastmod>2024-11-23T04:56:30+05:30</lastmod>
 </url>
 </urlset>

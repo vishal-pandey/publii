@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Vishal Pandey</title>
-    <link href="https://publii/feed.xml" rel="self" />
-    <link href="https://publii" />
+    <link href="https://publii.vishalpandey.co.in/feed.xml" rel="self" />
+    <link href="https://publii.vishalpandey.co.in" />
     <updated>2024-11-23T04:56:30+05:30</updated>
     <author>
         <name>Vishal Pandey</name>
     </author>
-    <id>https://publii</id>
+    <id>https://publii.vishalpandey.co.in</id>
 
     <entry>
         <title>Post 1</title>
         <author>
             <name>Vishal Pandey</name>
         </author>
-        <link href="https://publii/title-of-the-page-is-this.html"/>
-        <id>https://publii/title-of-the-page-is-this.html</id>
+        <link href="https://publii.vishalpandey.co.in/title-of-the-page-is-this.html"/>
+        <id>https://publii.vishalpandey.co.in/title-of-the-page-is-this.html</id>
 
         <updated>2024-11-23T04:56:01+05:30</updated>
             <summary>
