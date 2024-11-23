@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Vishal Pandey",
+    "description": "",
+    "home_page_url": "https://publii",
+    "feed_url": "https://publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Vishal Pandey"
+    },
+    "items": [
+        {
+            "id": "https://publii/title-of-the-page-is-this.html",
+            "url": "https://publii/title-of-the-page-is-this.html",
+            "title": "Post 1",
+            "summary": "Hello there this is an application that I want to give to all my client who want to showcase their business to the world with the ease of access and easy to showcase.",
+            "content_html": "<p>Hello there this is an application that I want to give to all my client who want to showcase their business to the world with the ease of access and easy to showcase.</p>",
+            "author": {
+                "name": "Vishal Pandey"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-23T04:56:01+05:30",
+            "date_modified": "2024-11-23T04:56:30+05:30"
+        }
+    ]
+}
